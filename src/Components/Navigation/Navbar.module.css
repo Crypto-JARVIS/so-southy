@@ -1,8 +1,11 @@
 .logo{
-    width:25%;
-    height: 25%;
+    width:20%;
+    height: 20%;
 }
 
 .bar{
+    position: fixed;
     background-color: rgb(17, 17, 17);
+    z-index: 100;
+    width: 100%;
 }
