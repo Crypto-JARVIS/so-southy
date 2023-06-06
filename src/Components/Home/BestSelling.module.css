@@ -1,0 +1,57 @@
+.bs{
+    margin-top: 60px;
+}
+
+.bsText{
+    text-align: center;
+    margin-bottom: 50px;
+    color: white;
+    letter-spacing: 2px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bst1{
+    font-size: 20px;
+}
+
+.bst2 {
+    font-size: 40px;
+}
+
+.bsImg{
+    display: flex;
+    overflow: hidden;
+}
+
+.bs img{
+    transition: transform 1.5s;
+    width: 100%;
+    height: 100%;
+}
+
+.bs img:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+    transition: 1.5s;
+}
+
+.bsI1{
+    overflow: hidden;
+    margin-right: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.bsI2{
+    overflow: hidden;
+    margin-right: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.bsI3{
+    overflow: hidden;
+    margin-right: 20px;
+    width: 100%;
+    height: 100%;
+}

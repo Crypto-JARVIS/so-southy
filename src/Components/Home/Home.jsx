@@ -1,40 +1,16 @@
 import React from "react";
 import cstyles from "./Home.module.css";
 import Brand from "./Brand";
-import food1 from "../../Images/idli.jpeg"
+import AboutUs from "./AboutUs";
+import BestSelling from "./BestSelling";
 
 const Home = () => {
   return (
     <React.Fragment>
       <Brand/>
-      <div className={cstyles.bg}>
-        <h1 className={cstyles.bsph}> OUR BEST SELLING PRODUCTS </h1>
-        <div className={cstyles.card}>
-          <img src={food1} alt="idli" className={cstyles.cardImg}/>
-          <div className={cstyles.cardDesc}>
-            <h4><b>IDLI</b></h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry.</p>
-          </div>
-        </div>
-        <div className={cstyles.card}>
-          <img src={food1} alt="idli" className={cstyles.cardImg}/>
-          <div className={cstyles.cardDesc}>
-            <h4><b>IDLI</b></h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry.</p>
-          </div>
-        </div>
-        <div className={cstyles.card}>
-          <img src={food1} alt="idli" className={cstyles.cardImg}/>
-          <div className={cstyles.cardDesc}>
-            <h4><b>IDLI</b></h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry.</p>
-          </div>
-        </div>
-      </div>
-      <div className={cstyles.founder}>
+      <AboutUs/>
+      <BestSelling/>
+      {/* <div className={cstyles.founder}>
         <div className={cstyles.founderDesc}>
           <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -52,7 +28,7 @@ const Home = () => {
           <h1>ASHISH</h1>
           <h1>BHAIYA</h1>
         </div>
-      </div>
+      </div> */}
     </React.Fragment>
   );
 };

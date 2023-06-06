@@ -2,12 +2,12 @@ import React from "react";
 import cstyles from "./Brand.module.css";
 import bgimg from "../../Images/SOSOUTHY.jpg";
 
-const AboutUs = () => {
+const Brand = () => {
   return (
     <div className={cstyles.brand}>
         <div className={cstyles.brandDesc}>
             <div>
-                <h2>FROM SOUTH <br/>TO MOUTH</h2>
+                <h2>STRAIGHT FROM SOUTH <br/>TO MOUTH</h2>
             </div>
             <div className={cstyles.brandOC}>
                 MONDAY thru FRIDAY 5pm – 11pm
@@ -22,4 +22,4 @@ const AboutUs = () => {
   );
 };
 
-export default AboutUs;
+export default Brand;
