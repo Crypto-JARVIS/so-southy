@@ -1,0 +1,48 @@
+.topbar{
+    color: white;
+    padding: 6px 36px ;
+}
+
+.topbarAdd{
+    padding: 4px 18px;
+    font-weight: 400;
+    letter-spacing: 0.9px;
+    float: left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.topbarAdd i{
+    margin-right: 4px;
+}
+
+a, a:link, a:focus, a:active {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.topbar a:hover{
+    color: rgb(255, 0, 0);
+}
+
+.topbarPhone{
+    padding: 4px 18px;
+    font-weight: 400;
+    letter-spacing: 0.9px;
+    float: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.topbarMail{
+    
+    text-transform: none;
+    padding: 4px 18px;
+    font-weight: 400;
+    float: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.topbarSocial{
+    padding: 4px 18px;
+    float: right;
+}

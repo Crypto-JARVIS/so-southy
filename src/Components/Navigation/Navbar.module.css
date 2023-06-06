@@ -4,8 +4,9 @@
 }
 
 .bar{
-    position: fixed;
+    position: sticky;
     background-color: rgb(17, 17, 17);
-    z-index: 100;
+    top: 0;
+    z-index: 999;
     width: 100%;
 }

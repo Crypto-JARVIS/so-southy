@@ -1,0 +1,39 @@
+.brand{
+    /* position: relative; */
+    /* display: inline-block; */
+    overflow: hidden;
+}
+.brandName{
+    height: 100%;
+    width: 50%;
+    float: right;
+}
+
+.brandName img{
+    width: 100%;
+}
+
+.brandDesc{
+    position: absolute !important;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 95.5%;
+    width: 50%;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.brandDesc h2 {
+    font-weight: 500;
+    letter-spacing: 10px;
+    font-size: 42px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.brandOC {
+    font-size: 15px;
+    margin-top: 24px;
+}
