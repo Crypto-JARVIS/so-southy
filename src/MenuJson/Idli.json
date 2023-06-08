@@ -1,0 +1,39 @@
+{
+    "IDLI": [
+        {
+            "id":1,
+            "Name": "IDLI SAMBHAR",
+            "Price": "75"
+        },
+        {
+            "id":2,
+            "Name": "SAMBHAR IDLI",
+            "Price": "85"
+        },
+        {
+            "id":3,
+            "Name": "RAVA IDLI",
+            "Price": "90"
+        },
+        {
+            "id":4,
+            "Name": "GHEE IDLI",
+            "Price": "110"
+        },
+        {
+            "id":5,
+            "Name": "MALGAIPODI IDLI",
+            "Price": "130"
+        },
+        {
+            "id":6,
+            "Name": "IDLI FRY",
+            "Price": "125"
+        },
+        {
+            "id":7,
+            "Name": "SCHEZWAN FRY IDLI",
+            "Price": "140"
+        }
+    ]
+}

@@ -3,6 +3,7 @@ import cstyles from "./Home.module.css";
 import Brand from "./Brand";
 import AboutUs from "./AboutUs";
 import BestSelling from "./BestSelling";
+import Menu from "./Menu";
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
       <Brand/>
       <AboutUs/>
       <BestSelling/>
+      <Menu/>
       {/* <div className={cstyles.founder}>
         <div className={cstyles.founderDesc}>
           <p>

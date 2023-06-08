@@ -1,0 +1,19 @@
+.fusionDosa {
+    margin-bottom: 40px;
+    width: 50%;
+}
+
+.fusionDosa h5 {
+    text-align: center;
+    font-weight: bolder;
+    padding: 5px;
+    margin-bottom: 25px;
+}
+
+.fusionDosaMenu {
+    padding: 5px;
+}
+
+.fusionDosaPrice{
+    float: right;
+}

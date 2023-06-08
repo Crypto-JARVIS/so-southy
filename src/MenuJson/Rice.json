@@ -1,0 +1,34 @@
+{
+    "RICE":[
+        {
+            "id":1,
+            "Name":"LEMON RICE",
+            "Price":"160"
+        },
+        {
+            "id":2,
+            "Name":"COCONUT RICE",
+            "Price":"160"
+        },
+        {
+            "id":3,
+            "Name":"TOMATO RICE",
+            "Price":"160"
+        },
+        {
+            "id":4,
+            "Name":"SAMBHAR",
+            "Price":"160"
+        },
+        {
+            "id":5,
+            "Name":"CURD RICE",
+            "Price":"160"
+        },
+        {
+            "id":6,
+            "Name":"PONGAL",
+            "Price":"180"
+        }
+    ]
+}

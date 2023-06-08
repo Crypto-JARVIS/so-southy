@@ -1,0 +1,44 @@
+{
+    "UTTAPAM": [
+        {
+            "id":1,
+            "Name":"PLAIN UTTAPAM",
+            "Price":"100"
+        },
+        {
+            "id":2,
+            "Name":"MASALA UTTAPAM",
+            "Price":"140"
+        },
+        {
+            "id":3,
+            "Name":"TOMATO UTTAPAM",
+            "Price":"140"
+        },
+        {
+            "id":4,
+            "Name":"ONION UTTAPAM",
+            "Price":"140"
+        },
+        {
+            "id":5,
+            "Name":"ONION TOMATO UTTAPAM",
+            "Price":"140"
+        },
+        {
+            "id":6,
+            "Name":"MIX VEG UTTAPAM",
+            "Price":"140"
+        },
+        {
+            "id":7,
+            "Name":"PANEER UTTAPAM",
+            "Price":"160"
+        },
+        {
+            "id":8,
+            "Name":"UTTAPAM PLATTER",
+            "Price":"200"
+        }
+    ]
+}

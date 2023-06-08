@@ -1,0 +1,19 @@
+.uttapam {
+    margin-bottom: 40px;
+    width: 50%;
+}
+
+.uttapam h5 {
+    text-align: center;
+    font-weight: bolder;
+    padding: 5px;
+    margin-bottom: 25px;
+}
+
+.uttapamMenu {
+    padding: 5px;
+}
+
+.uttapamPrice{
+    float: right;
+}

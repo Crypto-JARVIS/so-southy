@@ -1,0 +1,24 @@
+{
+    "FUSIONDOSA": [
+        {
+            "id":1,
+            "Name":"SPL. PINK DOSA",
+            "Price":"220"
+        },
+        {
+            "id":2,
+            "Name":"PAVBHAJI DOSA",
+            "Price":"220"
+        },
+        {
+            "id":3,
+            "Name":"PIZZA DOSA",
+            "Price":"220"
+        },
+        {
+            "id":4,
+            "Name":"CHOCOLATE DOSA",
+            "Price":"220"
+        }
+    ]
+}

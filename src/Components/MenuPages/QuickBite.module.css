@@ -1,0 +1,19 @@
+.quickBite {
+    margin-bottom: 40px;
+    width: 50%;
+}
+
+.quickBite h5 {
+    text-align: center;
+    font-weight: bolder;
+    padding: 5px;
+    margin-bottom: 25px;
+}
+
+.quickBiteMenu {
+    padding: 5px;
+}
+
+.quickBitePrice{
+    float: right;
+}

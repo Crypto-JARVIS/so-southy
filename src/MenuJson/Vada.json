@@ -1,0 +1,19 @@
+{
+    "VADA": [
+        {
+            "id":1,
+            "Name":"VADA",
+            "Price":"80"
+        },
+        {
+            "id":2,
+            "Name":" SAMBHAR VADA",
+            "Price":"90"
+        },
+        {
+            "id":3,
+            "Name":"DAHI VADA",
+            "Price":"120"
+        }
+    ]
+}
